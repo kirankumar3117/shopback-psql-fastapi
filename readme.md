@@ -1,1 +1,1 @@
-read me file just created
+we did achived finally creating relase notes for a perticular branch
