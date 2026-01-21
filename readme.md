@@ -1,1 +1,1 @@
-we did achived finally creating relase notes for a perticular branch
+we did achived finally creating relase notes for a perticular branch.
